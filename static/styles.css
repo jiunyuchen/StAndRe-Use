@@ -1,0 +1,47 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: "Lato", sans-serif
+}
+
+.w3-bar,h1,button{
+    font-family: "Montserrat", sans-serif
+}
+
+.fa-anchor,.fa-coffee {
+    font-size:200px
+}
+.kits:hover {
+  text-decoration: none;
+}
+
+.carousel-content {
+  position: absolute;
+  bottom: 10%;
+  width: 100%;
+  margin: 0 auto;
+  z-index: 20;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.myCarousel {
+  height: 10px;
+}
+
+.navbar-nav a:hover {
+    text-decoration: none;
+}
+
+.navbar-nav a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+.navbar-nav a:active {
+    text-decoration: none;
+}
+
+.navbar-nav a:link {
+    text-decoration: none;
+}
+
+

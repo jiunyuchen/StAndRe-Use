@@ -1,0 +1,15 @@
+{
+  "name": "StAndRe-Use",
+  "version": "1.0.0",
+  "description": "St AndRe-Use of Transition UStA",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiunyu Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18",
+    "express": "4.16"
+  }
+}
